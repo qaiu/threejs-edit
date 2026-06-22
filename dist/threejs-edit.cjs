@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});const e=require("./index-DyiJxNwp.cjs");exports.Animation=e.Animation;exports.AnimationResizer=e.AnimationResizer;exports.Editor=e.Editor;exports.Menubar=e.Menubar;exports.Player=e.Player;exports.Resizer=e.Resizer;exports.Script=e.Script;exports.Sidebar=e.Sidebar;exports.Toolbar=e.Toolbar;exports.Viewport=e.Viewport;
+//# sourceMappingURL=threejs-edit.cjs.map
