@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   root: 'src',
-  base: './',
+  base: process.env.NODE_ENV === 'production' ? '/threejs-edit/' : './',
   build: {
     outDir: '../dist',
     emptyOutDir: true,
